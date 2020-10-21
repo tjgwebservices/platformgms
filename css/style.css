@@ -1,0 +1,510 @@
+body {
+    background: #777;
+    color: #FFF;
+    background-color: #FFFFFF;
+    color: #000000;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    padding: 0 20px;
+    margin: 0;
+    min-width: 950px;
+    min-height: 600px;
+    width: 1100px;
+    height: 100%;
+    position: relative;
+}
+
+@-webkit-keyframes animateMargin {
+  from {margin-left: -100px;}
+  to {margin-left: 0px;}
+}
+
+@keyframes animateMargin {
+  from {margin-left: -100px;}
+  to {margin-left: 0px;}
+}
+
+#page-loading {
+    color: #FFF;
+    font-size: 3em;
+    position: absolute;
+    left: 40%;
+    top: 40%;
+}
+
+nav {
+	position: fixed;
+	margin: 0px;
+	top: 0px;
+	bottom: auto;
+	left: 20px;
+	right: 20px;
+	width: auto;
+	z-index: 0;
+	height: 17px;
+	display: block;
+	visibility: visible;
+	font-weight: bold;
+	padding: 1em 1em;
+	background: #FFF;
+	border: 1px solid #BBB;
+	padding: 10px;
+	overflow: auto;
+}
+
+span.theme{
+    overflow-x: hidden;
+    top: 13px;
+    right: 20px;
+    z-index: 10;
+	position: static;
+    float: right;
+}
+
+footer {
+    position: fixed;
+    margin: 0px;
+    top: auto;
+    bottom: 30px;
+    left: 20px;
+    right: 20px;
+    width: auto;
+    z-index: 0;
+    display: block;
+    visibility: visible;
+    height: 17px;
+
+}
+
+main {
+	position: fixed;
+	margin: 0px;
+	left: 20px;
+	right: 20px;
+	top: 47px;
+	bottom: 33px;
+	height: 700px;
+	width: 1098px;
+	z-index: 0;
+	display: block;
+	visibility: visible;
+	overflow: hidden;
+	background: #DDD;
+	padding: 0;
+	border-bottom: 0;
+	padding-bottom: 0;
+	border-radius: 0;
+}
+
+ul.tabbuttons {
+	position: fixed;
+	margin: 0px;
+	top: 0px;
+	bottom: auto;
+	left: 0px;
+	right: 0px;
+	width: auto;
+	z-index: 0;
+	display: block;
+	visibility: visible;
+	height: 37px;
+}
+
+ul.tabbuttons li {
+	list-style: none;
+    float: left;
+    position: relative;
+    top: 1px;
+    margin: 0 .2em 1px 0;
+    border-bottom: 0 !important;
+    padding: 0;
+    white-space: nowrap;
+}
+
+ul.tabbuttons li a {
+	float: left;
+	padding: .5em 1em;
+	text-decoration: none;
+	color: #C8D7EB;
+}
+
+ul.tabbuttons li.selected {
+    margin-bottom: 0;
+    padding-bottom: 1px;
+}
+
+ul.tabbuttons li.active {
+	border: 1px solid #aaaaaa;
+	background: #ffffff  50% 50% repeat-x;
+	font-weight: normal;
+	color: #212121;
+	border: 1px solid #d3d3d3;
+	background: #e6e6e6 50% 50% repeat-x;
+	font-weight: normal;
+	color: #555555;
+}
+
+main section {
+	position: fixed;
+	margin: 0px;
+	left: 0px;
+	right: 0px;
+	top: 41px;
+	bottom: 0px;
+	height: 657px;
+	width: 1096px;
+	z-index: 0;
+	display: block;
+	visibility: visible;
+	padding: 0;
+	overflow: hidden;
+	background: #FFF;
+	border: 1px solid #BBB;
+	padding: 10px;
+	overflow: auto;
+	border: 1px solid #aaaaaa;
+	background: #ffffff 50% 50% repeat-x;
+	color: #222222;
+	font-family: Verdana,Arial,sans-serif;
+	font-size: 1.1em;
+}
+
+
+main section section {
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	overflow: hidden;
+	display: block;
+	border: 0;
+	padding: 1em 1.4em;
+	background: none;
+	padding: 1ex;
+	overflow: auto;
+}
+
+aside {
+	position: fixed;
+	margin: 0px;
+	left: 0px;
+	right: auto;
+	top: 49px;
+	bottom: 49px;
+	height: 557px;
+	z-index: 0;
+	display: block;
+	visibility: visible;
+	width: 188px;
+	overflow: hidden;
+	background-color: #ededed;
+	color: #2e2e2e;
+	  -webkit-animation-name: animateMargin; 
+	-webkit-animation-duration: 4s; 
+	animation-name: animateMargin;
+	animation-duration: 4s;
+	transition-duration: 2s;
+}
+
+main footer {
+	position: fixed;
+	margin: 0px;
+	top: auto;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	width: auto;
+	z-index: 0;
+	display: block;
+	visibility: visible;
+	height: 37px;
+
+}
+
+main footer span {
+	border: 1px solid #d3d3d3;
+	background: #e6e6e6  50% 50% repeat-x;
+	font-weight: normal;
+	color: #555555;
+}
+
+main main {
+	position: fixed;
+	margin: 0px;
+	left: 10px;
+	right: 10px;
+	top: 80px;
+	bottom: 49px;
+	height: 557px;
+	z-index: 1;
+	display: block;
+	visibility: visible;
+}
+
+main main main{
+	position: fixed;
+	margin: 0px;
+	left: 10px;
+	right: 210px;
+	top: 49px;
+	bottom: 49px;
+	height: 557px;
+	width: 874px;
+	z-index: 2;
+	display: block;
+	visibility: visible;
+	width: auto;
+	  -webkit-animation-name: animateMargin; 
+	-webkit-animation-duration: 4s; 
+	animation-name: animateMargin;
+	animation-duration: 4s;
+	transition-duration: 2s;
+	    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+main aside:nth-of-type(2) {
+	position: fixed;
+	margin: 0px;
+	left: auto;
+	right: 0px;
+	top: 49px;
+	bottom: 49px;
+	height: 557px;
+	z-index: 0;
+	visibility: visible;
+	width: 188px;
+	overflow: hidden;
+	padding-right: 10px;
+}
+
+main figure {
+	background-color: #dedede;
+	border: 1px solid #1e1e1e;
+	position: absolute;
+	padding: 0px;
+	margin: 0px;
+	font-size: 1px;
+	text-align: left;
+	overflow: hidden;
+	z-index: 1;
+	cursor: pointer;
+	left: 0px;
+	height: 519px;
+	width: 40px;
+	top: 49px;
+	border-radius: 5px;
+	margin-left: -10px;
+	-webkit-animation-name: animateMargin; 
+	-webkit-animation-duration: 4s; 
+	animation-name: animateMargin;
+	animation-duration: 4s;
+	transition-duration: 2s;
+
+}
+
+
+main figure:nth-of-type(2) {
+	left:757px;
+}
+
+main figure div span, main figure div a {
+	background-color: #ededed;
+	border: 1px solid #e1e1e1;
+	position: fixed;
+	display: block;
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+	text-align: center;
+	font-size: 1px;
+	cursor: pointer;
+	z-index: 1;
+	visibility: visible;
+	top: 254px;
+	width: 40px;
+	height: 80px;
+	border: 2px solid #787b82;
+	border-radius: 4px;
+	margin-left: -10px;
+}
+
+main figure:nth-of-type(2) a{
+	margin-left:0px;
+}
+
+main figure div a:hover {
+    background-color: #e4f966;
+
+}
+
+aside div {
+	position: fixed;
+    padding: 0px;
+    margin: 0px;
+    font-size: 1px;
+    text-align: left;
+    overflow: hidden;
+    z-index: 2;
+    cursor: n-resize;
+    top: 161px;
+    width: 188px;
+    height: 10px;
+    left: 10px;
+	background-color: #dedede;
+    border: 1px solid #1e1e1e;
+
+}
+
+aside div div {
+	background-color: #ededed;
+	border: 1px solid #e1e1e1;
+    position: fixed;
+    display: block;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 1px;
+    cursor: pointer;
+    z-index: 1;
+    visibility: visible;
+    width: 48px;
+    height: 10px;
+    left: 69px;
+    top: 0px;
+}
+
+aside div div span {
+	background-position: -96px -192px;
+	background-position: -128px -16px;
+	background-position: 0 -16px;
+	margin-top: -3px;
+	margin: 0 auto;
+	width: 16px;
+	height: 16px;
+	background-color:#a4a4a4;
+
+}
+
+main div div div {
+	border: 1px solid #f1f1f1;
+	display: none;
+    margin-top: 15px;
+	color: #666;
+    font-size: 12px;
+    font-weight: bold;
+    width: 100%;
+    padding-bottom: 0.35ex;
+	position: fixed;
+    display: block;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 1px;
+    cursor: pointer;
+    z-index: 1;
+    visibility: visible;
+    height: 48px;
+    width: 10px;
+    left: 0px;
+
+}
+
+main div div:nth-of-type(2) div {
+	color: #666;
+	font-size: 12px;
+	font-weight: bold;
+	width: 100%;
+	padding-bottom: 0.35ex;
+
+}
+
+main div div div a {
+	background-position: -48px -192px;
+	background-position: -144px -16px;
+	background-position: -32px -16px;
+	margin-left: -3px;
+	margin: 0 auto;
+	width: 16px;
+	height: 16px;
+	display: block;
+	text-indent: -99999px;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	background-color:#a4a4a4;
+}
+summary {
+	position:absolute;
+	margin-left: 1000px;
+	text-indent: -9999px;
+	width:1px;
+	height:1px;
+}
+summary:before {
+	content: "1000px";
+}
+
+@media all and (min-width: 300px) {
+	body {width: 300px}
+	main {width: 300px}
+	nav {width: 300px}
+	main section {width: 250px}
+	main main main {width: 150px}
+	main aside {width: 75px}
+	main aside:nth-of-type(2) {left: 150px}
+	main figure:nth-of-type(2) {left: 150px}	
+	summary {margin-left: 300px;}
+	summary:before {content: "250px";}
+}
+
+@media all and (max-width: 480px) {
+	main aside, main figure {display: none; visibility:hidden}
+	main main main {margin-left: -200px;max-width: 300px;
+	transition-duration: 1s;animation-duration: 1s;}
+
+}
+
+@media all and (min-width: 480px) {
+	body {width: 450px}
+	main {width: 450px}
+	nav {width: 450px}
+	main section {width: 400px}
+	main main main {width: 300px}
+	main aside {width: 100px}
+	main aside:nth-of-type(2) {left: 300px}
+	main figure:nth-of-type(2) {left: 300px}	
+	summary {margin-left: 450px;}
+	summary:before {content: "300px";}
+	main aside, main figure {display: block; visibility: visible}
+}
+
+@media all and (min-width: 900px) {
+	body {width: 900px}
+	main {width: 900px}
+	nav {width: 900px}
+	main section {width: 850px}
+	main main main {width: 620px}
+	main aside {width: 200px}
+	main aside:nth-of-type(2) {left: 650px}
+	main figure:nth-of-type(2) {left: 620px}	
+	summary {margin-left: 900px;}
+	summary:before {content: "620px";}
+	main aside, main figure {display: block}
+
+}
+
+@media all and (min-width: 1100px) {
+	body {width: 900px}
+	main {width: 900px}
+	nav {width: 900px}
+	main section {width: 850px}
+	main main main {width: 620px}
+	main aside {width: 200px}
+	main aside:nth-of-type(2) {left: 650px}
+	main figure:nth-of-type(2) {left: 620px}	
+	summary {margin-left: 900px;}
+	summary:before {content: "620px";}
+}

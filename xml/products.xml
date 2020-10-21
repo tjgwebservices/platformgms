@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+<heading>Platform GMS</heading>
+<headingtitle>Welcome to Platform GMS</headingtitle>
+<headingdescription>Platform GMS</headingdescription>
+<links>
+	<link>example.com</link>
+	<link>example.com</link>
+	<link>example.com</link>
+</links>
+<additionallinks>
+	<link>example.com</link>
+	<link>example.com</link>
+	<link>example.com</link>
+</additionallinks>
+<sitelinks>
+	<link>example.com</link>
+	<link>example.com</link>
+	<link>example.com</link>
+</sitelinks>
+<topics>
+	<topic>
+		<subject>Software Testing</subject>
+		<description>Software Testing and Quality Assurance</description>
+	</topic>
+	<topic>
+		<subject>Security</subject>
+		<description>Secure Coding and Development</description>
+	</topic>
+	<topic>
+		<subject>TDD</subject>
+		<description>Test Driven Development</description>
+	</topic>
+	<topic>
+		<subject>BDD</subject>
+		<description>Behavior Driven Development</description>
+	</topic>
+	<topic>
+		<subject>Visualizations</subject>
+		<description>Data Visualization and Charting</description>
+	</topic>
+	<topic>
+		<subject>Data Management</subject>
+		<description>Data Management Systems</description>
+	</topic>
+	<topic>
+		<subject>Analytics</subject>
+		<description>Data Analytics</description>
+	</topic>
+	<topic>
+		<subject>Big Data</subject>
+		<description>Big Data Software Development and Analytics</description>
+	</topic>
+	<topic>
+		<subject>Data Mining</subject>
+		<description>Business Intelligence and Knowledge Discovery</description>
+	</topic>	
+</topics>
+<services>
+	<service>
+		<title>Online Journal Subscriptions</title>
+		<description>Development of Journal Subscription Platform</description>
+	</service>	
+	<service>
+		<title>Online Journal Management</title>
+		<description>Document Management System for Journals</description>
+	</service>	
+	<service>
+		<title>3D Printing Research</title>
+		<description>Research on Advances in 3D Printing</description>
+	</service>	
+	<service>
+		<title>Software Training</title>
+		<description>Essential Training for Software Engineering</description>
+	</service>	
+	<service>
+		<title>Application Development Center</title>
+		<description>Desktop and Cloud Environments</description>
+	</service>	
+	<service>
+		<title>Data Analytics</title>
+		<description>Business Intelligence and Big Data Analytics</description>
+	</service>	
+	<service>
+		<title>Technology and Language Consulting</title>
+		<description>Translation and Audio Services</description>
+	</service>	
+</services>
+<analyses>
+<analysis>
+	<title>Political Analysis</title>
+	<description>Studies of refugees and asylum seekers.</description>	
+</analysis>
+
+<analysis>
+	<title>Financial Analysis</title>
+	<description>Studies of market data.</description>	
+</analysis>
+
+<analysis>
+	<title>Geological Analysis</title>
+	<description>Studies of land data.</description>	
+</analysis>
+
+<analysis>
+	<title>Meteorology Analysis</title>
+	<description>Studies of weather data.</description>	
+</analysis>
+
+<analysis>
+	<title>Economic Analysis</title>
+	<description>Studies of macro economic data.</description>	
+</analysis>
+
+<analysis>
+	<title>Economic Analysis</title>
+	<description>Finacial, Sector, and Historical Data</description>	
+</analysis>
+</analyses>
+<sessions>
+<session>
+	<course>DevOps Training</course>
+	<description></description>
+</session>
+<session>
+	<course>Process Improvement Training</course>
+	<description></description>
+</session>
+<session>
+	<course>Distributed Databases</course>
+	<description></description>
+</session>
+<session>
+	<course>Devops Training</course>
+	<description>Training on new methodologies in software engineering.</description>
+</session>
+<session>
+	<course>Process Improvement Training</course>
+	<description>Methods for improving information technology management.</description>
+</session>
+<session>
+	<course>Distributed Databases</course>
+	<description>Emerging database management tools.</description>
+</session>
+<session>
+	<course>Data Analysis</course>
+	<description>Discussion on ethical, security, and privacy issues in big data.</description>
+</session>
+<session>
+	<course>Big Data Ethics and Privacy</course>
+	<description>Discussion on ethical, security, and privacy issues in big data.</description>
+</session>
+<session>
+	<course>Blockchain Technologies</course>
+	<description>Emerging tools and applications of blockchain technologies.</description>
+</session>
+<session>
+	<course>Continuous Delivery</course>
+	<description>Reliability, availability, and capability in software engineering.</description>
+</session>
+<session>
+	<course>Continuous Improvement</course>
+	<description>Process automation and optimization.</description>
+</session>
+<session>
+	<course>Continuous Integration</course>
+	<description>Automation and orchestration of networked platforms.</description>
+</session>
+<session>
+	<course>File Formats</course>
+	<description>Various file structures including XML, JSON, and CSV.</description>
+</session>
+<session>
+	<course>Data Analysis Platform</course>
+	<description>Configuring servers for data analysis.</description>
+</session>
+<session>
+	<course>API Development</course>
+	<description>Connecting systems through application programming interfaces.</description>
+</session>
+<session>
+	<course>Blockchain Development</course>
+	<description>The technology behind blockchain.</description>
+</session>
+<session>
+	<course>Security Essentials</course>
+	<description>Storing and handling of Personally Identifiable Information.</description>
+</session>
+<session>
+	<course>Wearables</course>
+	<description>Developing wearable technology.</description>
+</session>
+<session>
+	<course>XQuery</course>
+	<description>Tools for querying XML.</description>
+</session>
+<session>
+	<course>Desktop Automation Tools</course>
+	<description>Overview of tools for automating desktop application testing.</description>
+</session>
+<session>
+	<course>Service Oriented Architecture</course>
+	<description>Developing SOA technologies in the cloud.</description>
+</session>
+<session>
+	<course>NoSQL II</course>
+	<description>Updates and upgrades for NoSQL databases.</description>
+</session>
+<session>
+	<course>Energy Resource Management</course>
+	<description>Power and cooling utilization in cloud services.</description>
+</session>
+<session>
+	<course>Project Cost Estimation</course>
+	<description>Project management for agile software development.</description>
+</session>
+<session>
+	<course>Data Storage</course>
+	<description>Flie, Block, and Object Storage.</description>
+</session>
+<session>
+	<course>Streaming Analytics</course>
+	<description>Analyzing real time data streams.</description>
+</session>
+<session>
+	<course>Blockchain Programming</course>
+	<description>Introduction to blockchain programming.</description>
+</session>
+<session>
+	<course>Data Security</course>
+	<description>Security management and regulations.</description>
+</session>
+<session>
+	<course>IIoT</course>
+	<description>Configuring Industrial IoT Devices.</description>
+</session>
+<session>
+	<course>Digital Media</course>
+	<description>Digital media management.</description>
+</session>
+<session>
+	<course>Programming Devices</course>
+	<description>Programming languages for IoT devices.</description>
+</session>
+<session>
+	<course>Digital Marketing</course>
+	<description>Applying big data to marketing strategies.</description>
+</session>
+<session>
+	<course>IT Workplace Training</course>
+	<description>Equal opportunity and diversity training.</description>
+</session>
+<session>
+	<course>RDBMS Data Analysis</course>
+	<description>Analyzing data with relational databases.</description>
+</session>
+<session>
+	<course>RDBMS Data Integration</course>
+	<description>Integration of data from various sources.</description>
+</session>
+<session>
+	<course>RDBMS Reporting</course>
+	<description>Creating reports with relational databases.</description>
+</session>
+<session>
+	<course>Querying Languages</course>
+	<description>Analyzing data and reporting information.</description>
+</session>
+<session>
+	<course>Data storage</course>
+	<description>Network storage strategies and scaling.</description>
+</session>
+<session>
+	<course>Data Analysis Management</course>
+	<description>Orchestrating a data management project.</description>
+</session>
+<session>
+	<course>R Programming Techniques</course>
+	<description>Introduction to data analysis with R programming language.</description>
+</session>
+<session>
+	<course>Python Analytics</course>
+	<description>Introduction to data analysis with Python language.</description>
+</session>
+<session>
+	<course>Operating system environments</course>
+	<description>Installing operating systems on personal computers.</description>
+</session>
+<session>
+	<course>R Charting</course>
+	<description>Charting data with R programming language.</description>
+</session>
+<session>
+	<course>Python Charting</course>
+	<description>Charting data with Python language.</description>
+</session>
+<session>
+	<course>Boot Configuration</course>
+	<description>Customizing boot configurations on personal computers.</description>
+</session>
+</sessions>
+<figures>
+<figure>
+	<title>Business Intelligence</title>
+	<description>Technology News</description>
+		<list>
+			<element>Decision Science</element>
+			<element>Workflow Management</element>
+			<element>Data Mining</element>
+		</list>
+</figure>
+<figure>
+	<title>Data Analysis</title>
+	<description>Platforms and Frameworks</description>
+		<list>
+			<element>Analytical Tools</element>
+			<element>Machine Learning</element>
+			<element>Visualization</element>
+		</list>
+</figure>
+<figure>
+	<title>Data Storage</title>
+	<description>Parallel and DistributedSystems</description>
+		<list>
+			<element>Database Systems</element>
+			<element>Distributed Storage</element>
+			<element>Data Warehousing</element>
+		</list>
+</figure>
+<figure>
+	<title>Knowledge Management</title>
+	<description>Knowledge Managment Systems</description>
+	<list>
+		<element>Decision Science</element>
+		<element>Workflow Management</element>
+		<element>Data Mining</element>
+	</list>
+</figure>
+<figure>
+	<title>Data Analysis</title>
+	<description>Data Analytics Tools</description>
+	<list>
+		<element>Big Data</element>
+		<element>Visualizations</element>
+		<element>Orchestration</element>
+	</list>
+</figure>
+<figure>
+	<title>Data Storage Systems</title>
+	<description>Distributed and Parallel Storage</description>
+	<list>
+		<element>Database Systems</element>
+		<element>Distributed Storage</element>
+		<element>Data Warehousing</element>
+	</list>
+</figure>
+</figures>
+<articles>
+<article>
+	<title>TJG Web Services Shop</title>
+	<section>Create a free TJG Web Services account to browse the training and services provided by TJG Web Services</section>
+</article>
+<article>
+	<title>TJG Web Services Shop</title>
+	<section>Once you created an account, log in to tjgwebservices.com to order items from the shop page.</section>
+</article>
+<article>
+	<title>TJG Web Services Shop</title>
+	<section>Once you have created your order you can check the status of your order on the orders page.</section>
+</article>
+<article>
+	<title>Organizational Strategies Training</title>
+	<section>Management, professional development, pilots, prototypes, simulations, and models</section>
+</article>
+<article>
+	<title>Learning Types</title>
+	<section>Collaborative learning, problem based learning, and inquiry based learning</section>
+</article>
+<article>
+	<title>Training Evaluation</title>
+	<section>Evaluativem effectiveness, and impact studies</section>
+</article>
+<article>
+	<title>Technology Assessment</title>
+	<section>Studies of return on investment, technology training curriculum, learning management systems, and learning environments</section>
+</article>
+<article>
+	<title>Human Computer Interaction</title>
+	<section>Eduational systems infrastructure, instructional design, and information software architecture</section>
+</article>
+<article>
+	<title>Infrastructure Monitoring</title>
+	<section>Real time analytics and data management</section>
+</article>
+<article>
+	<title>Technology Systems Valuation</title>
+	<section>Cash flow and risk, time series analysis, time series graphs, and univariate time series data</section>
+</article>
+<article>
+	<title>Educational Software Assessment</title>
+	<section>Ontologies, curriculum development, and pedagogical strategies</section>
+</article>
+<article>
+	<title>Artificial Intelligence</title>
+	<section>Training information systems for artificial and augmented intelligence support in decision making</section>
+</article>
+<article>
+	<title>Research Approaches</title>
+	<section>Action research, design science, systematic literature reviews, historical analysis, case studies, and meta-analyses</section>
+</article>
+<article>
+	<title>Research</title>
+	<section>Research on emerging topics such as data science and quantum computing</section>
+</article>
+<article>
+	<title>Research</title>
+	<section>Research on geographic information systems and climate change</section>
+</article>
+<article>
+	<title>Research</title>
+	<section>Research on affirmative action, equality, and diversity</section>
+</article>
+<article>
+	<title>Research</title>
+	<section>Research on accounting, quantitative behavioral finance, and statistical models</section>
+</article>
+<article>
+	<title>Research</title>
+	<section>Research in big data such as graph databases, graph models, scalability, availability, database services, and XML schemas</section>
+</article>
+</articles>
+<products>
+	<product>
+		<title>Consulting</title>
+		<description>Program Management</description>
+		<imagepath>images/shop_item0001.png</imagepath>
+		<price>$199</price>
+	</product>
+	<product>
+		<title>Consulting</title>
+		<description>Project Management</description>
+		<imagepath>images/shop_item0001.png</imagepath>
+		<price>$199</price>
+	</product>
+	<product>
+		<title>Consulting</title>
+		<description>It Staffing</description>
+		<imagepath>images/shop_item0001.png</imagepath>
+		<price>$199</price>
+	</product>
+	<product>
+		<title>Consulting</title>
+		<description>It Consulting</description>
+		<imagepath>images/shop_item0001.png</imagepath>
+		<price>$199</price>
+	</product>
+	<product>
+		<title>Consulting</title>
+		<description>Media Relations</description>
+		<imagepath>images/shop_item0001.png</imagepath>
+		<price>$199</price>
+	</product>
+	<product>
+		<title>Consulting</title>
+		<description>Resource Management</description>
+		<imagepath>images/shop_item0001.png</imagepath>
+		<price>$199</price>
+	</product>
+	<product>
+		<title>Consulting</title>
+		<description>Project Planning</description>
+		<imagepath>images/shop_item0001.png</imagepath>
+		<price>$199</price>
+	</product>
+	<product>
+		<title>Consulting</title>
+		<description>Requirements Gathering</description>
+		<imagepath>images/shop_item0001.png</imagepath>
+		<price>$199</price>
+	</product>
+	<product>
+		<title>Consulting</title>
+		<description>Analysis and Design</description>
+		<imagepath>images/shop_item0001.png</imagepath>
+		<price>$199</price>
+	</product>
+</products>
+</catalog>

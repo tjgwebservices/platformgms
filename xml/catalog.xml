@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+<heading>Platform GMS</heading>
+<version>0.0.3.9</version>
+<headingtitle>Platform GMS</headingtitle>
+<headingdescription>Platform GMS Application Programming Interfaces</headingdescription>
+<theme>Platform GMS</theme>
+<componenttitle>Platform GMS</componenttitle>
+<links>
+	<link>example.com</link>
+	<link>example.com</link>
+	<link>example.com</link>
+	<link>example.com</link>
+</links>
+<tabs>
+	<tab>Shop</tab>
+	<tab>Products</tab>
+	<tab>Cart</tab>
+</tabs>
+<topics>
+	<topic>Careers</topic>
+	<topic>Contact</topic>
+	<topic>Documents</topic>
+	<topic>Education</topic>
+	<topic>Research</topic>
+	<topic>Resources</topic>
+	<topic>Technology</topic>
+	<topic>Updates</topic>
+</topics>
+<leftcomponents>
+	<component>API Shop</component>
+	<component>Design</component>
+	<component>Research</component>
+	<component>Analysis</component>
+	<component>Visualization</component>
+	<component>Presentation</component>
+	<component>Implementation</component>
+</leftcomponents>
+<rightcomponents>
+	<component>API</component>
+	<component>IoT</component>
+	<component>Research</component>
+	<component>UI/UX</component>
+	<component>Conversion</component>
+	<component>Deployment</component>
+	<component>Integration</component>
+</rightcomponents>
+<helps>
+	<help>New Platform GMS</help>
+	<help>Cart currently unavailable.</help>
+	<help>Check back for updates</help>
+</helps>
+<models1>
+	<model>Microcontroller Development</model>
+	<model>Internet of Things</model>
+	<model>Big Data</model>
+	<model>APIs</model>
+	<model>Data Analysis</model>
+	<model>Software Testing</model>	
+</models1>
+<models2>
+	<model>Upcoming Projects</model>
+	<model>Ongoing Projects</model>
+	<model>Software Architecture Design</model>
+	<model>Data Management</model>
+</models2>
+</catalog>

@@ -1,0 +1,19 @@
+main main main ul{
+	list-style-type: none;
+	background-color: #eeefe7;
+	color: #008080;
+	border: 1px solid #00ff00;
+}
+
+main main main ul li{
+    width: 50%;
+    padding: 2px 4px;
+    border-radius: 2px;
+    border: 1px solid #90ec9b;
+}
+
+main main main ul li:hover {
+	background-color: #ffc;
+}
+
+
